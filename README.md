@@ -1,9 +1,8 @@
-<div align="center">
-    <img src="" align="center" style="width: 100%" />
-</div>
-
-
 # <div align="center">Hi there, I'm Sanish👋</div>
+<p align="center">
+  <img src="intro.gif" width="100%" height="400" alt="Intro GIF" />
+</p>
+
 ## About Me
 I’m an aspiring AI and Data Science enthusiast, currently exploring and learning the exciting world of data, machine
 learning, and artificial intelligence.
